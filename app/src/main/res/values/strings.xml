@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewWithMultipleViewType</string>
+    <string name="view_all">View all</string>
+    <string name="total_movies">xx movies</string>
+</resources>
